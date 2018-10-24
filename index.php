@@ -1,3 +1,3 @@
 <?php
-echo "Testing auto deployment with Jenkins";
+echo "Testing deployment with Alex";
 ?>
